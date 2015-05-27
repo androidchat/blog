@@ -6,7 +6,7 @@ categories:
 ---
 <p class="cta z-depth-1">This is a sponsored post promoting a Job opportunity in Android Development. </p>
 
-Todoed is currently a chrome extension that turns any text into a task with just one right click. Some say we are ridiculously easy - here are what the rest are saying 
+[=Todoed is currently a chrome extension that turns any text into a task with just one right click. Some say we are ridiculously easy=] - here are what the rest are saying 
 [https://twitter.com/Todoed_pwl/timelines/585107612292747264](https://twitter.com/Todoed_pwl/timelines/585107612292747264)
 
 * Share ownership in Todoed upto 3% 
