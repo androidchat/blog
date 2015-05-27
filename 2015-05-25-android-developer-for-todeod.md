@@ -16,10 +16,10 @@ categories:
 * To know more about the different versions read here. 
 [http://blog.todoed.co/post/118356508697/todoed-team-is-in-search-of-mobile-developers-got](http://blog.todoed.co/post/118356508697/todoed-team-is-in-search-of-mobile-developers-got)
 
-<pre>"If you are coming to help me,
+<quote>"If you are coming to help me,
 you are wasting your time.
 But if you are coming because your liberation is
 bound up with mine, then let us work together."
 
 – Lila Watson
-</pre>
+</quote>
