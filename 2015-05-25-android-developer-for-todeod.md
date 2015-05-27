@@ -17,10 +17,10 @@ categories:
 [http://blog.todoed.co/post/118356508697/todoed-team-is-in-search-of-mobile-developers-got](http://blog.todoed.co/post/118356508697/todoed-team-is-in-search-of-mobile-developers-got)
 
 <pre class="quote">
-"If you are coming to help me,<br />
-you are wasting your time.<br />
-But if you are coming because your liberation is <br />
-bound up with mine, then let us work together."<br /><br />
+"If you are coming to help me,
+you are wasting your time.
+But if you are coming because your liberation is 
+bound up with mine, then let us work together."
 
 – Lila Watson
 </pre>
